@@ -1,4 +1,4 @@
-# Are-stopwords-really-useless-
+# Are stopwords really useless?
 
 
 Sentiment Analysis is probably one of the simplest applications for NLP (Natural Language Processing). The ability for a computer to get the polarity of a user's comment has beeen, since the beginning, extremely interesting. Moore's law rules unformally that in about two years we will double the number of transistors on a microchip at half the price. This has been valid for a long time, but it's now probably at its end and someone claims that 2022 is goonna be its death's year. Now, in the meantime, something else than computation power is spreading its wings and it's what we refer to as Big Data.
